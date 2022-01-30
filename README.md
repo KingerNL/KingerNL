@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning python!!! 
 - 🔭 Currently going to school for: Mechanical angineering, with a passion to code.
-- 🥅 2021 Goals: Learn more about python, alghoritmes and data structures
+- 🥅 2022 Goals: Learn more about c++, Computer Vision and practical applications for code
 - ⚡ Fun fact: I love to play soccar and game
 
 ---
