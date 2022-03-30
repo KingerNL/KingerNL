@@ -3,7 +3,7 @@
 ## I'm a Student, Engineer, Athletic and developer!!
 
 - 🌱 I’m currently learning python!!! 
-- 🔭 Currently going to school for: Mechanical angineering, with a passion to code.
+- 🔭 Currently going to school for: Mechatronics & Robotics Engineering, with a passion to code.
 - 🥅 2022 Goals: Learn more about c++, Computer Vision and practical applications for code
 - ⚡ Fun fact: I love to play soccar and game
 
