@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning c++ and learning more about Evolutionary algorithms + Q-Learning. 
 - 🔭 Currently going to school for: Mechatronics & Robotics Engineering, with a passion to code.
 - 🥅 2022 Goals: Learn more about c++, Computer Vision and practical applications for code
-- ⚡ Fun fact: I love to play soccar and game
+- ⚡ Fun fact: I've 3D printed my own RC Plane
 
 ---
 
