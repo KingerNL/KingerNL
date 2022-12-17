@@ -17,7 +17,6 @@ margin-left: auto;
 margin-right: auto;">
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js">
     </script>
-
     <lottie-player src="https://assets8.lottiefiles.com/packages/lf20_2jrpdqi3.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"    autoplay></lottie-player>
 
 </div>
