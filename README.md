@@ -15,9 +15,7 @@ transparent;
 width: 50%; 
 margin-left: auto; 
 margin-right: auto;">
-
 ![Hi_There](Hi_There.gif)
-
 </div>
 
 <p style="text-align:center; 
