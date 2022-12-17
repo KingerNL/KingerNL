@@ -42,7 +42,7 @@ Check out my repos ⬇️
 <img align="left" alt="Terminal" width="30px" style="margin-left: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="30px" style="margin-left: 10px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
 <img align="left" alt="Terminal" width="28px" style="margin-left: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" />
-<img align="left" alt="Terminal" width="30px" style="margin-left: 10px" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
+<img align="left" alt="Terminal" width="33px" style="margin-left: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/900px-Python_logo_01.svg.png?20210503135843" />
 
 
 [website]: https://mveldkamp.nl/
