@@ -1,14 +1,14 @@
 <body>
-<h4 align="center"><samp>     Hi there 👋 Welcome to my github! I'm a Chaotic robotics programmer ⚡ With an expertise in embedded hardware and computer vision / AI 🛠️ I also like making site's ‍ 💻</samp></h4>
+<h3 align="center"><samp>     Hi there 👋 Welcome to my github! I'm a Chaotic robotics programmer ⚡ With an expertise in embedded hardware and computer vision / AI 🛠️ I also like making site's ‍ 💻</samp></h3>
 
 <p align="center">
   <img src="Hi_There.gif" alt="animated" />
 </p>
 
-<p align="center"><samp>
+<h4 align="center"><samp>
 Check out my repos ⬇️  
   </samp>
-</p>
+</h4>
 
 ---
 
