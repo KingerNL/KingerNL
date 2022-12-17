@@ -27,8 +27,8 @@ Check out my repos ⬇️
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="30px" src="https://www.svgrepo.com/show/149185/website.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://www.svgrepo.com/show/205292/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="40px" src="https://www.svgrepo.com/show/149185/website.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://www.svgrepo.com/show/205292/linkedin.svg" />][linkedin]
 
 <br />
 
