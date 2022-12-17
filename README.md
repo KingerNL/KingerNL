@@ -1,20 +1,13 @@
 <body>
-
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Chivo+Mono&display=swap');
-</style>
-
-<p align="center" style= "margin-top: 20px; 
-font-family: 'Chivo Mono', monospace;"> 
-    Hi there 👋 Welcome to my github! I'm a Chaotic robotics programmer ⚡ With an expertise in embedded hardware and computer vision / AI 🛠️ I also like making site's ‍💻
-</p>
+<h4 align="center"><samp>     Hi there 👋 Welcome to my github! I'm a Chaotic robotics programmer ⚡ With an expertise in embedded hardware and computer vision / AI 🛠️ I also like making site's ‍ 💻</samp></h4>
 
 <p align="center">
   <img src="Hi_There.gif" alt="animated" />
 </p>
 
-<p align="center" style= " font-family: 'Chivo Mono', monospace;"> 
-    Check out my repo's ⬇️ 
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
 </p>
 
 ---
