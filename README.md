@@ -26,10 +26,10 @@ Check out my repos ⬇️
 ---
 
 ### Connect with me:
-
 [<img align="left" alt="codeSTACKr.com" width="40px" src="https://www.svgrepo.com/show/149185/website.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://www.svgrepo.com/show/205292/linkedin.svg" />][linkedin]
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -44,6 +44,7 @@ Check out my repos ⬇️
 <img align="left" alt="Terminal" width="28px" style="margin-left: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" />
 <img align="left" alt="Terminal" width="30px" style="margin-left: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/900px-Python_logo_01.svg.png?20210503135843" />
 
+<br />
 
 [website]: https://mveldkamp.nl/
 [linkedin]: https://linkedin.com/in/mart-veldkamp-b3a01220a/
