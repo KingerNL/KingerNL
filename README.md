@@ -1,11 +1,38 @@
-### Hi there, I'm Kinger - aka Mart Veldkamp 👋
+<body>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Chivo+Mono&display=swap');
+</style>
+
+
+<p style="text-align:center; 
+margin-top: 20px; 
+font-family: 'Chivo Mono', monospace;"> 
+    Hi there 👋 Welcome to my github! I'm a Chaotic robotics programmer ⚡ With an expertise in embedded hardware and computer vision / AI 🛠️ I also like making site's ‍💻
+</p>
+<div style=
+"background-color: 
+transparent; 
+width: 50%; 
+margin-left: auto; 
+margin-right: auto;">
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <lottie-player src="https://assets8.lottiefiles.com/packages/lf20_2jrpdqi3.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"    autoplay></lottie-player>
+</div>
+
+<p style="text-align:center; 
+margin-top: 20px; 
+font-family: 'Chivo Mono', monospace;"> 
+    Check out my repo's ⬇️ 
+</p>
+
+---
 
 ## I'm a Student, Engineer, Athletic and developer!!
 
-- 🌱 I’m currently learning c++ and learning more about Evolutionary algorithms + Q-Learning. 
-- 🔭 Currently going to school for: Mechatronics & Robotics Engineering, with a passion to code.
-- 🥅 2022 Goals: Learn more about c++, Computer Vision and practical applications for code
-- ⚡ Fun fact: I've 3D printed my own RC Plane
+- 🌱 I’m currently further developing my C and python (Computer Vision) skills.
+- 🔭 Currently going to school for: Mechatronics & Robotics Engineering. I'm in my final year.
+- 🥅 2023 Goals: Get my Bachelors degree and learning more about embedded programming.
+- ⚡ Fun fact: I've 3D printed my own RC Plane.
 
 ---
 
