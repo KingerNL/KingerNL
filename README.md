@@ -15,7 +15,8 @@ transparent;
 width: 50%; 
 margin-left: auto; 
 margin-right: auto;">
-![Hi_There](https://user-images.githubusercontent.com/67836542/208248706-5205e922-7043-46a5-99f3-ff2650ce4001.gif)
+
+![Hi_There](Hi_There.gif)
 
 </div>
 
