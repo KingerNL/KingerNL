@@ -4,23 +4,16 @@
     @import url('https://fonts.googleapis.com/css2?family=Chivo+Mono&display=swap');
 </style>
 
-<p style="text-align:center; 
-margin-top: 20px; 
+<p align="center" style= "margin-top: 20px; 
 font-family: 'Chivo Mono', monospace;"> 
     Hi there 👋 Welcome to my github! I'm a Chaotic robotics programmer ⚡ With an expertise in embedded hardware and computer vision / AI 🛠️ I also like making site's ‍💻
 </p>
-<div style=
-"background-color: 
-transparent; 
-width: 50%; 
-margin-left: auto; 
-margin-right: auto;">
-![Hi_There](Hi_There.gif)
-</div>
 
-<p style="text-align:center; 
-margin-top: 20px; 
-font-family: 'Chivo Mono', monospace;"> 
+<p align="center">
+  <img src="Hi_There.gif" alt="animated" />
+</p>
+
+<p align="center" style= " font-family: 'Chivo Mono', monospace;"> 
     Check out my repo's ⬇️ 
 </p>
 
