@@ -1,5 +1,5 @@
 <body>
-<h3 align="center"><samp> Hi there 👋 Welcome to my github! I'm a Chaotic robotics programmer 🛠️ With a passion for Aerospace 🚀 I also like making websites ‍💻</samp></h3>
+<h3 align="center"><samp> Hi there 👋 Welcome to my github! I'm a Chaotic robotics programmer 🛠️ With a passion for Aerospace 🚀 I also like making site's ‍💻</samp></h3>
 
 <p align="center">
   <img src="Hi_There.gif" alt="animated" />
