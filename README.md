@@ -98,8 +98,18 @@ Check out my repos ⬇️
   </a> 
 </p>
 
-### ⚡Fun stat:
-<img src="https://github-readme-stats.vercel.app/api?username=KingerNL&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+### more stats:
+
+<details>
+  <summary>⚡Github stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=KingerNL&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</details>
+<details>
+  <summary>⚡Most language used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingerNL&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+
+
 
 <br />
 
