@@ -38,7 +38,7 @@ Check out my repos ⬇️
 <p align="left"> 
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/> 
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -108,8 +108,5 @@ Check out my repos ⬇️
   <summary>⚡Most language used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingerNL&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
-
-
-
-<br />
+  <br />
 
