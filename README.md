@@ -2,7 +2,7 @@
 <h3 align="center"><samp> Hi there 👋 Welcome to my github! I'm a Chaotic robotics programmer 🛠️ With a passion for Aerospace 🚀 I also like making website's ‍💻</samp></h3>
 
 <p align="center">
-  <img src="Sticker_Github.mov" alt="animated" />
+  <img src="Sticker_Github.gif" alt="animated" />
 </p>
 
 <!-- <p align="center">
