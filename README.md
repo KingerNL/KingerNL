@@ -2,7 +2,7 @@
 <h3 align="center"><samp> Hi there 👋 Welcome to my github! I'm a Chaotic robotics programmer 🛠️ With a passion for Aerospace 🚀 I also like making website's ‍💻</samp></h3>
 
 <p align="center">
-  <img src="Sticker-Github.gif" alt="animated" />
+  <img src="Hi_There.gif" alt="animated" />
 </p>
 
 <!-- <p align="center">
@@ -109,5 +109,9 @@ Check out my repos ⬇️
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingerNL&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
   <br />
+
+<p align="center">
+  <img src="Sticker-Github.gif" alt="animated" />
+</p>
 
 *I am using an automatic subscription control system. so everyone who subscribes to me, I will subscribe to and vice versa.*
