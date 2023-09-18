@@ -115,3 +115,4 @@ Check out my repos ⬇️
 </p>
 
 *I am using an automatic subscription control system. so everyone who subscribes to me, I will subscribe to and vice versa.*
+**Also, if you're interested... These are my Github settings: [dop](https://vscode.dev/profile/github/5338e807d06368e2b6bd646632e13ed6).** 
