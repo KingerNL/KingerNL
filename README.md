@@ -20,7 +20,7 @@ Check out my repos ⬇️
 
 - 🌱 I’m currently further developing my C and python (Computer Vision) skills.
 - 🔭 Currently going to school for: Mechatronics & Robotics Engineering. I'm in my final year.
-- 🥅 2023 Goals: Get my Bachelors degree and learning more about embedded programming.
+- 🥅 2024 Goals: Start with my Masters degree and Learn more about AI.
 - ⚡ Fun fact: I've 3D printed my own RC Plane.
 
 ---
