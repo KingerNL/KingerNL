@@ -19,7 +19,7 @@ Check out my repos ⬇️
 ## I'm a Student, Engineer, Athletic and developer!!
 
 - 🌱 I’m currently further developing my C and python (Computer Vision) skills.
-- 🔭 Currently going to school for: Mechatronics & Robotics Engineering. I'm in my final year.
+- 🔭 Currently going to school for: Pre-Master Robotics.
 - 🥅 2024 Goals: Start with my Masters degree and Learn more about AI.
 - ⚡ Fun fact: I've 3D printed my own RC Plane.
 
