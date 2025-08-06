@@ -20,7 +20,7 @@ Check out my repos ⬇️
 
 - 🌱 I’m currently further developing my C and python (Computer Vision) skills.
 - 🔭 Currently going to school for: Pre-Master Robotics.
-- 🥅 2024 Goals: Start with my Masters degree and Learn more about AI.
+- 🥅 2025 Goals: Continue my Masters degree and Learn more about Robot Dyanmics and AI.
 - ⚡ Fun fact: I've 3D printed my own RC Plane.
 
 ---
