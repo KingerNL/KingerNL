@@ -14,21 +14,14 @@ Check out my repos ⬇️
   </samp>
 </h3>
 
----
-
-## I'm a Student, Engineer, Athletic and developer!!
+## I'm a Student, robotics engineer, Athlete Full-time Linux user :)
 
 - 🌱 I’m currently further developing my C and python (Computer Vision) skills.
 - 🔭 Currently going to school for: Masters in Robotics.
 - 🥅 2025 Goals: Continue my Masters degree and Learn more about Robot Dyanmics and AI.
 - ⚡ Fun fact: I've 3D printed my own RC Plane.
 
----
-
 ### Connect with me:
-  <a href="https://mveldkamp.nl/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/149185/website.svg" alt="bash" width="50" height="40"/> 
-  </a> 
   <a href="https://linkedin.com/in/mart-veldkamp-b3a01220a/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/205292/linkedin.svg" alt="c" width="50" height="40"/> 
   </a> 
@@ -98,21 +91,4 @@ Check out my repos ⬇️
   </a> 
 </p>
 
-### more stats:
-
-<details>
-  <summary>⚡Github stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=KingerNL&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</details>
-<details>
-  <summary>⚡Most language used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingerNL&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
-  <br />
-
-<p align="center">
-  <img src="Sticker-Github.gif" alt="animated" />
-</p>
-
 *I am using an automatic subscription control system. so everyone who subscribes to me, I will subscribe to and vice versa.*
-**Also, if you're interested... These are my Github settings: [dop](https://vscode.dev/profile/github/5338e807d06368e2b6bd646632e13ed6).** 
